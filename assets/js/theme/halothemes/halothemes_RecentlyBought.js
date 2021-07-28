@@ -41,7 +41,7 @@ export default function(context) {
         var changeSlides = context.themeSettings.recently_bought_changeSlides;
         var changeSlidesTime = 1000 * (Number(changeSlides));
 
-        $("body").append('<div id="recently_bought_list"></div>');
+        // $("body").append('<div id="recently_bought_list"></div>');
 
         setInterval(function(){
             $('.themevale_recently-bought').hide();

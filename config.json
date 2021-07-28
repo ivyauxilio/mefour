@@ -530,7 +530,7 @@
     "newsletter_popup_heading_2": "Receive our latest updates.",
     "newsletter_popup_img": "newsletter-bg.jpg",
     "newsletter_popup_message": "We promise to only send you good things!",
-    "enable_recently_viewed_products": true,
+    "enable_recently_viewed_products": false,
     "layout_recently": "default",
     "recently_viewed_products_title": "Recently Viewed",
     "recently_viewed_products_cart": true,
